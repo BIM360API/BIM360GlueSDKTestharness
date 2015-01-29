@@ -1,0 +1,29 @@
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.ClientForm.resources
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.BIM360DisplayComponent.resources
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.Properties.Resources.resources
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.csproj.GenerateResource.Cache
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\t_venum\Documents\Visual Studio 2012\Projects\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.ClientForm.resources
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.BIM360DisplayComponent.resources
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.Properties.Resources.resources
+C:\Users\venugom.ADS\Documents\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.csproj.GenerateResource.Cache
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.exe.config
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.exe
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.pdb
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.exe
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\bin\Debug\TestHarness.pdb
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.ClientForm.resources
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.BIM360DisplayComponent.resources
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\BIM360SDKTestClient.Properties.Resources.resources
+Z:\Downloads\Win_backup\BIM360GlueSDKTestHarness_Latest\TestHarness\obj\Debug\TestHarness.csproj.GenerateResource.Cache
