@@ -1,2 +1,2 @@
 # bim360gluesdk
-Repository for BIM 360 Glue SDK Samples 
+Windows Desktop Client written in .Net (C#)
